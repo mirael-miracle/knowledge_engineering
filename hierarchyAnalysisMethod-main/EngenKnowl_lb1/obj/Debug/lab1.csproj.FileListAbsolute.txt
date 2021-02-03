@@ -1,0 +1,10 @@
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\bin\Debug\EngenKnowl_lb1.exe.config
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\bin\Debug\EngenKnowl_lb1.exe
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\bin\Debug\EngenKnowl_lb1.pdb
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.Form1.resources
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.Properties.Resources.resources
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.exe
+C:\Users\38096\Desktop\Labs\3course\Инженерия знаний\hierarchyAnalysisMethod-main\EngenKnowl_lb1\obj\Debug\EngenKnowl_lb1.pdb

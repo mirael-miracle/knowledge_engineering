@@ -255,7 +255,7 @@ namespace EngenKnowl_lb1
                 button4.Enabled = true;
             }
         }
-
+        //Виклик функції МПП 
         private void button3_Click(object sender, EventArgs e)
         {
             
