@@ -1,0 +1,7 @@
+C:\Users\38096\source\repos\IP_class\IP_class\bin\Debug\IP_class.exe.config
+C:\Users\38096\source\repos\IP_class\IP_class\bin\Debug\IP_class.exe
+C:\Users\38096\source\repos\IP_class\IP_class\bin\Debug\IP_class.pdb
+C:\Users\38096\source\repos\IP_class\IP_class\obj\Debug\IP_class.csprojAssemblyReference.cache
+C:\Users\38096\source\repos\IP_class\IP_class\obj\Debug\IP_class.csproj.CoreCompileInputs.cache
+C:\Users\38096\source\repos\IP_class\IP_class\obj\Debug\IP_class.exe
+C:\Users\38096\source\repos\IP_class\IP_class\obj\Debug\IP_class.pdb
